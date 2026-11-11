@@ -1,5 +1,7 @@
 %include "asm_io.inc"
 
+global asm_main
+
 segment .data
     interger1 dd 15
     interger2 dd 6
