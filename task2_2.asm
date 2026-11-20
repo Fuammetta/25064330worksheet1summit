@@ -5,8 +5,8 @@ segment .data
     msg db "Sum of array: ", 0
 
     array:
-    %assign i 1
-    %rep 100
+    %assign i 5
+    %rep 90
         dd i
         %assign i i+1
     %endrep

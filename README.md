@@ -1,7 +1,7 @@
 # Operating Systems – Worksheet 1
 ## An Echo of Assembler
 
-**Student:** [Your Name]  
+**Student:** Nguyen Lam Hoang Minh 
 **Student ID:** [Your Student ID]  
 **Module:** UFCFWK-15-2 Operating Systems
 
